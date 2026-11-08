@@ -2,6 +2,8 @@
 
 This is an unofficial private app API, recovered from MyUMobile 4.0.2 and verified with a U Home 5G account. It can change. Login uses normal subscriber credentials and device approval; no app-private session extraction or TLS interception is required.
 
+Last live ESP32 balance verification: **8 November 2026**, using the repository installer and an existing saved session. Wi-Fi settings were preserved. No subscriber values or captures are included here.
+
 Base: `https://api-myumobileapp.u.com.my/mobile`.
 
 | Method | Path | Purpose |
