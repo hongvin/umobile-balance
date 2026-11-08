@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "umobile-balance"
+version = "0.1.0"
+description = "U Mobile home broadband balance for desktop and ESP32"
+requires-python = ">=3.11"
+license = "MIT"
+readme = "README.md"
+
+[project.optional-dependencies]
+remember = ["keyring>=25,<26"]
+
+[project.scripts]
+umobile-balance = "umobile_balance.app:main"
+
+[tool.setuptools.packages.find]
+include = ["umobile_balance*"]

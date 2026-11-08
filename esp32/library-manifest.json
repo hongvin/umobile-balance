@@ -1,0 +1,54 @@
+[
+  {
+    "file": "adafruit_requests.py",
+    "repo": "Adafruit_CircuitPython_Requests",
+    "tag": "4.1.18",
+    "url": "https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Requests/4.1.18/adafruit_requests.py",
+    "sha256": "9ec1a225b61f96f107200e3361ed43266e19f7ba495b8cc7564913444213a5fb"
+  },
+  {
+    "file": "adafruit_connection_manager.py",
+    "repo": "Adafruit_CircuitPython_ConnectionManager",
+    "tag": "3.1.8",
+    "url": "https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_ConnectionManager/3.1.8/adafruit_connection_manager.py",
+    "sha256": "65e2426c2d9ad44a1428c6ce547f4dfbd1f0b02f3a1a75b0274bb4c975f1c18b"
+  },
+  {
+    "file": "adafruit_ntp.py",
+    "repo": "Adafruit_CircuitPython_NTP",
+    "tag": "3.4.0",
+    "url": "https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_NTP/3.4.0/adafruit_ntp.py",
+    "sha256": "ace13de609a8924f8ac8ff4d52a738c61e84d7a460d36cc9330c9a52ba6bcd36"
+  },
+  {
+    "repo": "Adafruit_CircuitPython_Bitmap_Font",
+    "tag": "2.1.1",
+    "files": [
+      {
+        "file": "__init__.py",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "file": "bdf.py",
+        "sha256": "63e03562ec451e06b1ad50453edd41fee1998eed5d4c483ce3ba7ddf2ef72324"
+      },
+      {
+        "file": "bitmap_font.py",
+        "sha256": "f50fbc2cf94651b6c62b835320215bb7fa4e99d4427be472be5e36ad94ace1f6"
+      },
+      {
+        "file": "glyph_cache.py",
+        "sha256": "8d95b3e37a42470494512f50fbec40c8c2ef48dc1b03eff17d2288be6b324c05"
+      },
+      {
+        "file": "pcf.py",
+        "sha256": "3cc93a8944676e80ed4b7a03acaf83da00b88254b27074ab44af13f47f3b98d2"
+      },
+      {
+        "file": "ttf.py",
+        "sha256": "b38e7eb079c48e9c87cff3fd71001fd42a39ddf318abaf8db54e20d8a8d9fb59"
+      }
+    ],
+    "reason": "Release predates installed CircuitPython 9.0.4; source is compatible with this firmware."
+  }
+]

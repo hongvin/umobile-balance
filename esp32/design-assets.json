@@ -1,0 +1,37 @@
+{
+  "font": "Usage Sans (bitmap derivative of IBM Plex Sans)",
+  "fontLicense": "SIL Open Font License 1.1",
+  "fontSource": "https://github.com/google/fonts/tree/main/ofl/ibmplexsans",
+  "logoSource": "https://www.u.com.my/en/about-us/newsroom/media-depository",
+  "logoAsset": "https://www.u.com.my/media/about-us/newsroom/media-depository/UMob-Logo-Vertical-RGB.png",
+  "logoDimensions": [
+    38,
+    55
+  ],
+  "fonts": [
+    {
+      "file": "fonts/UsageSans-10.bdf",
+      "size": 10,
+      "weight": 500,
+      "sha256": "a43345551597f1443ad71148652fd268b3e9f2b433af2b73cb8cfe015a8be81f"
+    },
+    {
+      "file": "fonts/UsageSans-12.bdf",
+      "size": 12,
+      "weight": 500,
+      "sha256": "368e4205950723b4ea9441b40671ad4dc3bef5ce467687299a843ad04ff5b043"
+    },
+    {
+      "file": "fonts/UsageSans-18.bdf",
+      "size": 18,
+      "weight": 500,
+      "sha256": "5edd3a02d99fe082836869aa508118d04dfa43f63a132b3ce70fccf648af58ab"
+    },
+    {
+      "file": "fonts/UsageSans-34.bdf",
+      "size": 34,
+      "weight": 600,
+      "sha256": "256caacda1993f9a49062c4ccb28e1ca77db44eaed03d8da846dc83e884ec548"
+    }
+  ]
+}

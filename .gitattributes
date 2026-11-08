@@ -1,0 +1,6 @@
+* text=auto eol=lf
+*.bmp binary
+*.bdf -text
+esp32/lib/** -text
+esp32/lib/** linguist-vendored
+esp32/fonts/*.bdf linguist-generated

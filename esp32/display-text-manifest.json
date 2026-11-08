@@ -1,0 +1,30 @@
+{
+  "version": "3.1.0",
+  "commit": "9d604e6eb523b31ea4db6b28b6304b3812e50cc6",
+  "files": {
+    "esp32/lib/adafruit_display_text/__init__.py": {
+      "source": "https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Display_Text/9d604e6eb523b31ea4db6b28b6304b3812e50cc6/adafruit_display_text/__init__.py",
+      "sha256": "1ed77f0e06948d5cf93929ad74e54445af5e5e8e37c19693b8fd8daef4b6ab18"
+    },
+    "esp32/lib/adafruit_display_text/bitmap_label.py": {
+      "source": "https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Display_Text/9d604e6eb523b31ea4db6b28b6304b3812e50cc6/adafruit_display_text/bitmap_label.py",
+      "sha256": "7718a0f8c30a2abbb6d72013f3a25cbeae5ec206459ec951a00140de01461816"
+    },
+    "esp32/lib/adafruit_display_text/label.py": {
+      "source": "https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Display_Text/9d604e6eb523b31ea4db6b28b6304b3812e50cc6/adafruit_display_text/label.py",
+      "sha256": "645a04bb1137628b4a169c6c4b4076eb5dd8ecb35bbf34becaabe778d6155cc6"
+    },
+    "esp32/lib/adafruit_display_text/outlined_label.py": {
+      "source": "https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Display_Text/9d604e6eb523b31ea4db6b28b6304b3812e50cc6/adafruit_display_text/outlined_label.py",
+      "sha256": "bc04c8e90116b6ccb1477823620b235242d72b25fd5ce108a7552044578e1fdf"
+    },
+    "esp32/lib/adafruit_display_text/scrolling_label.py": {
+      "source": "https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Display_Text/9d604e6eb523b31ea4db6b28b6304b3812e50cc6/adafruit_display_text/scrolling_label.py",
+      "sha256": "3470c0020ca2c6f439d69a25438d4533b21b947bbd3c1181299285ae8924af3e"
+    },
+    "esp32/lib/Adafruit_CircuitPython_Display_Text-LICENSE.txt": {
+      "source": "https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Display_Text/9d604e6eb523b31ea4db6b28b6304b3812e50cc6/LICENSE",
+      "sha256": "b01aa589e23c21e254281f5b02bebbab24f6ca2f6db349b2002e178110f6211d"
+    }
+  }
+}
